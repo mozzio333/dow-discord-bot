@@ -1,1 +1,1 @@
-dow-discord-bot: python main.py
+bot: python main.py
