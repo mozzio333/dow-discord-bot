@@ -1,0 +1,1 @@
+dow-discord-bot: python main.py
